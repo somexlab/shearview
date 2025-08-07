@@ -3,6 +3,8 @@ Repository for construction details and operational software for a compact linea
 
 <img width="1913" height="1027" alt="LabVIEW_frontPanel" src="https://github.com/user-attachments/assets/bb4091bc-0014-4ad3-8e84-dc34c435dce3" />
 
+<img width="978" height="720" alt="windowing" src="https://github.com/user-attachments/assets/26e917db-a605-49e2-8a6a-2c62ad993981" />
+
 
 <img width="2000" height="1114" alt="shearview_overview" src="https://github.com/user-attachments/assets/60491778-e6da-478d-b6b3-ab13249a4b31" />
 
