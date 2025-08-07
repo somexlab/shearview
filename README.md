@@ -5,8 +5,8 @@ Repository for construction details and operational software for a compact linea
 
 <img width="978" height="720" alt="windowing" src="https://github.com/user-attachments/assets/26e917db-a605-49e2-8a6a-2c62ad993981" />
 
+<img width="4000" height="2250" alt="Compact rheometer components" src="https://github.com/user-attachments/assets/df027d83-7766-4b79-a378-06b541e2be82" />
 
-<img width="2000" height="1114" alt="shearview_overview" src="https://github.com/user-attachments/assets/60491778-e6da-478d-b6b3-ab13249a4b31" />
 
 The numbered components are:
 (1) Breadboard base (MB3030/M, Thorlabs), machined to fit a commercial microscope stage;
