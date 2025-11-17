@@ -6,6 +6,8 @@ path = input('Enter path:  '); % enter path of the data file
 A = readmatrix(path);
 A(end,:) = [];
 % write results to txt file
+file = 'your_file.txt'; % file where the resluts will be saved
+
 
 %--------Parameters-------------%
 
@@ -304,5 +306,6 @@ end
 
 % Close the file when done
 fclose(fid);
+
 
 
